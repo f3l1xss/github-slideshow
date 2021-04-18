@@ -22,5 +22,5 @@ foodpanda
 
 deliveroo deliveroo2
 
-mbo iso
+mbo iso mbo iso 2
 
